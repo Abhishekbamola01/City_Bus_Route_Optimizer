@@ -1,0 +1,41 @@
+
+# City Bus Route Optimizer sample connections
+# Format: Stop A|Stop B|Travel time in minutes
+
+Graphic Era Hill University|Prem Nagar|5
+Prem Nagar|Sudhowala|7
+Sudhowala|Selaqui|8
+Selaqui|IMA|10
+IMA|Ballupur Chowk|12
+Ballupur Chowk|GMS Road|7
+GMS Road|ISBT Dehradun|10
+ISBT Dehradun|Niranjanpur Mandi|5
+Niranjanpur Mandi|Patel Nagar|6
+Patel Nagar|Railway Station|8
+Railway Station|Clock Tower|7
+Clock Tower|Parade Ground|4
+Parade Ground|Dilaram Chowk|6
+Dilaram Chowk|Survey Chowk|5
+Survey Chowk|Rispana Pul|9
+Rispana Pul|Dharampur|6
+Dharampur|Clement Town|8
+Clement Town|Raipur|12
+Raipur|IT Park|15
+IT Park|Jakhan|8
+Jakhan|Rajpur Road|7
+Rajpur Road|Sahastradhara Crossing|10
+Sahastradhara Crossing|Banjarawala|12
+Banjarawala|Kargi Chowk|6
+
+Prem Nagar|Ballupur Chowk|10
+Ballupur Chowk|Clock Tower|14
+ISBT Dehradun|Railway Station|12
+Clock Tower|Survey Chowk|8
+Dharampur|Raipur|10
+Raipur|Kargi Chowk|9
+Jakhan|Sahastradhara Crossing|9
+GMS Road|Patel Nagar|8
+Sudhowala|Clement Town|18
+Parade Ground|Dharampur|11
+Dilaram Chowk|Rajpur Road|12
+ISBT Dehradun|Kargi Chowk|14
