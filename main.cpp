@@ -347,7 +347,7 @@ public:
         return buses[busIndex].getDeparture();
     }
 
-    // BFS finds a route using the fewest stop-to-stop connections.
+    // BFS implementation for finding the shortest bus route using a queue.
     RouteResult findRouteBFS(string source, string destination, int time) const {
         int start = findStopIndex(source);
         int finish = findStopIndex(destination);
