@@ -301,7 +301,7 @@ public:
         return (int)buses.size();
     }
 
-    // Shows buses whose sample departure time is at or after the requested time.
+    // Shows buses whose  departure time is at or after the requested time.
     void displayAvailableBuses(string source, int requestedTime) const {
         cout << "\n============================================\n";
         cout << "       BUSES AVAILABLE AT YOUR TIME\n";
