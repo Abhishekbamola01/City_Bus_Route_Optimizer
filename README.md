@@ -10,7 +10,7 @@ A terminal-based C++ project for demonstrating bus-stop navigation and route opt
 - Find the route with the lowest estimated travel time using Dijkstra's algorithm.
 - Load bus and driver display records from a CSV file.
 - Load route connections and sample travel times from a text file.
-- Display bus registration-style numbers, colours, seating capacities, routes, and statuses.
+- Display bus registration-style numbers, colours,  capacities, routes, and statuses.
 - Print a Google Maps directions link for the selected route.
 - Validate menu choices and stop inputs.
 
