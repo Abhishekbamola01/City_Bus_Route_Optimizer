@@ -104,4 +104,5 @@ Dijkstra's algorithm finds a route with the lowest sum of the travel-time weight
 5. Choose options 4 and 5 to verify that CSV records load.
 6. Try an invalid menu option.
 7. Try entering an invalid stop name.
-8. Choose option 6 to exit.
+8. Try entering an unavailable bus.
+9. Choose option 6 to exit.
